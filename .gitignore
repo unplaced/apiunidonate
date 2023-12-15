@@ -1,0 +1,19 @@
+# Arquivos de configuração
+.phpstorm.meta.php
+.htaccess
+
+# Arquivos de build ou caches
+/vendor/
+/node_modules/
+/.idea/
+/.vscode/
+/.DS_Store
+
+# Logs e arquivos temporários
+/log/
+/temp/
+/cache/
+
+# Arquivos de configuração sensíveis (modifique para suas necessidades)
+.env
+config.php
